@@ -1,0 +1,165 @@
+body {
+   
+    background: url(img/bg.png);
+    background-repeat: no-repeat;
+    position:absolute;
+
+}
+
+.drops {
+  position: absolute;
+  left: 79px;
+  top: 106px;
+  width: 570px;
+  height: 300px;
+  z-index: 25;
+  box-shadow: 0.3px 0.5px 0px 0px rgb( 204, 204, 204 );
+}
+
+.tabs {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 570px;
+  height: 300px;
+  z-index: 17;
+}
+.nav_bar {
+  background-color: rgb( 255, 255, 255 );
+  box-shadow: 0px 1px 0px 0px rgb( 204, 204, 204 );
+  position: absolute;
+  left: -11px;
+  top: 100px;
+  width: 573px;
+  height: 7px;
+  z-index: 16;
+}
+.home_icon {
+  background-image: url("img/tabhome.png");
+  position: absolute;
+  left: 37px;
+  top: 66px;
+  width: 16px;
+  height: 15px;
+  z-index: 15;
+}
+.Pet_Services {
+  font-size: 13px;
+  font-family: "Helvetica Neue";
+  color: rgb( 255, 255, 255 );
+  font-weight: bold;
+  line-height: 1.538;
+  text-align: left;
+  text-shadow: 0px -1px 0px rgb( 0, 0, 0 );
+  position: absolute;
+  left: 405px;
+  top: 66px;
+  width: 77px;
+  height: 12px;
+  z-index: 14;
+}
+.Pets_for_Sale {
+  font-size: 13px;
+  font-family: "Helvetica Neue";
+  color: rgb( 255, 255, 255 );
+  font-weight: bold;
+  line-height: 1.538;
+  text-align: left;
+  text-shadow: 0px -1px 0px rgb( 0, 0, 0 );
+  position: absolute;
+  left: 285px;
+  top: 66px;
+  width: 79px;
+  height: 12px;
+  z-index: 13;
+}
+.Pet_Help {
+  font-size: 13px;
+  font-family: "Helvetica Neue";
+  color: rgb( 255, 255, 255 );
+  font-weight: bold;
+  line-height: 1.538;
+  text-align: left;
+  text-shadow: 0px -1px 0px rgb( 0, 0, 0 );
+  position: absolute;
+  left: 191px;
+  top: 66px;
+  width: 53px;
+  height: 14px;
+  z-index: 12;
+}
+.Community {
+  font-size: 13px;
+  font-family: "Helvetica Neue";
+  color: rgb( 102, 102, 102 );
+  font-weight: bold;
+  line-height: 1.538;
+  text-align: left;
+  position: absolute;
+  left: 78px;
+  top: 66px;
+  width: 72px;
+  height: 13px;
+  z-index: 11;
+}
+.tab {
+  border-radius: 3px;
+  background-image: -moz-linear-gradient( 90deg, rgb(0,0,0) 0%, rgb(255,255,255) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(0,0,0) 0%, rgb(255,255,255) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(0,0,0) 0%, rgb(255,255,255) 100%);
+  position: absolute;
+  left: 412px;
+  top: 77px;
+  width: 117px;
+  height: 40px;
+  z-index: 10;
+}
+.tab {
+  border-radius: 3px;
+  background-image: -moz-linear-gradient( 90deg, rgb(0,0,0) 0%, rgb(255,255,255) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(0,0,0) 0%, rgb(255,255,255) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(0,0,0) 0%, rgb(255,255,255) 100%);
+  position: absolute;
+  left: 292px;
+  top: 77px;
+  width: 118px;
+  height: 40px;
+  z-index: 9;
+}
+.tab {
+  border-radius: 3px;
+  background-image: -moz-linear-gradient( 90deg, rgb(0,0,0) 0%, rgb(255,255,255) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(0,0,0) 0%, rgb(255,255,255) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(0,0,0) 0%, rgb(255,255,255) 100%);
+  position: absolute;
+  left: 198px;
+  top: 77px;
+  width: 92px;
+  height: 40px;
+  z-index: 8;
+}
+.tab {
+  border-radius: 3px;
+  background-image: -moz-linear-gradient( 90deg, rgb(170,195,89) 0%, rgb(158,184,76) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(170,195,89) 0%, rgb(158,184,76) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(170,195,89) 0%, rgb(158,184,76) 100%);
+  position: absolute;
+  left: 85px;
+  top: 77px;
+  width: 111px;
+  height: 40px;
+  z-index: 7;
+}
+.tab {
+  border-radius: 3px;
+  background-image: -moz-linear-gradient( 90deg, rgb(0,0,0) 0%, rgb(255,255,255) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(0,0,0) 0%, rgb(255,255,255) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(0,0,0) 0%, rgb(255,255,255) 100%);
+  position: absolute;
+  left: 44px;
+  top: 77px;
+  width: 39px;
+  height: 40px;
+  z-index: 6;
+}
+
